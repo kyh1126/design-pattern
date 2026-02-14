@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DesignPattern.iml" filepath="$PROJECT_DIR$/DesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01.SingletonPattern/01.SingletonPattern.iml" filepath="$PROJECT_DIR$/01.SingletonPattern/01.SingletonPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02.FlyweightPattern/02.FlyweightPattern.iml" filepath="$PROJECT_DIR$/02.FlyweightPattern/02.FlyweightPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03.BuilderPattern/03.BuilderPattern.iml" filepath="$PROJECT_DIR$/03.BuilderPattern/03.BuilderPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04.ObserverPattern/04.ObserverPattern.iml" filepath="$PROJECT_DIR$/04.ObserverPattern/04.ObserverPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05.AdapterPattern/05.AdapterPattern.iml" filepath="$PROJECT_DIR$/05.AdapterPattern/05.AdapterPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06.FacadePattern/06.FacadePattern.iml" filepath="$PROJECT_DIR$/06.FacadePattern/06.FacadePattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07.DecoratorPattern/07.DecoratorPattern.iml" filepath="$PROJECT_DIR$/07.DecoratorPattern/07.DecoratorPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08.BridgePattern/08.BridgePattern.iml" filepath="$PROJECT_DIR$/08.BridgePattern/08.BridgePattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09.StrategyPattern/09.StrategyPattern.iml" filepath="$PROJECT_DIR$/09.StrategyPattern/09.StrategyPattern.iml" />
+    </modules>
+  </component>
+</project>

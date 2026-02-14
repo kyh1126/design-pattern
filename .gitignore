@@ -1,0 +1,35 @@
+# IDE - IntelliJ (modules.xml, misc.xml, vcs.xml, codeStyles/ 등은 커밋, 아래만 제외)
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/$PRODUCT_WORKSPACE_FILE$
+.idea/dictionaries/
+.idea/shelf/
+.idea/usage.statistics.xml
+.idea/caches/
+
+# Eclipse (제거됨 - 참고용)
+.project
+.classpath
+.settings/
+bin/
+*.class
+
+# Java
+target/
+build/
+out/
+*.jar
+*.war
+*.ear
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 로그/임시 파일
+log.txt
+*.tmp
+*.bak
+*.swp
+*~
